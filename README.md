@@ -1,8 +1,8 @@
 ﻿<div align="center">
 
-# 👋 Hi, I'm Parnika Goud Bingi
+# Hi, I'm Parnika Goud Bingi
 
-### 🚀  DevOps Engineer | 5 Years Experience
+###  DevOps Engineer | 5 Years Experience
 ### AWS • Azure • Kubernetes • Terraform • CI/CD • DevSecOps
 
 </div>
@@ -12,20 +12,20 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 Results-driven **Senior DevOps Engineer** with **5+ years of experience** designing, automating, and managing scalable cloud infrastructure and CI/CD pipelines across **AWS** and **Azure** environments.
 
 - 🏥 Currently at **United Health Group** — building HIPAA-compliant Kubernetes infrastructure on AWS with VMware Tanzu
 - ☁️ Previously at **Elevance Health** — multi-cloud DevOps, EKS/AKS, Jenkins pipelines, Terraform IaC
-- 🔐 Strong in **DevSecOps** — HashiCorp Vault, Trivy, SonarQube, AWS GuardDuty, OPA
-- 🎓 **MS Information Systems** — Saint Louis University (2024)
-- 📍 Based in **Dallas, TX**
+- Strong in **DevSecOps** — HashiCorp Vault, Trivy, SonarQube, AWS GuardDuty, OPA
+-  **MS Information Systems** — Saint Louis University (2024)
+- Based in **Dallas, TX**
 - ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### ☁️ Cloud Platforms
+###  Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
@@ -44,15 +44,15 @@ Results-driven **Senior DevOps Engineer** with **5+ years of experience** design
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ---
 
-## 📁 Featured Projects
+## Featured Projects
 
-### 🌐 [cloud-devops-multi-cloud-deployment](https://github.com/pgoud161/cloud-devops-multi-cloud-deployment)
+###  [cloud-devops-multi-cloud-deployment](https://github.com/pgoud161/cloud-devops-multi-cloud-deployment)
 > Production-grade DevOps project deploying a FastAPI microservice to **AWS EKS** and **Azure AKS** using GitHub Actions CI/CD, Terraform, Docker, Kubernetes, and Helm.
 - Multi-stage Docker builds with Trivy security scanning
 - Terraform IaC for full AWS VPC + EKS and Azure VNet + AKS stacks
 - HPA auto-scaling, NGINX Ingress, zero-downtime rolling deployments
 
-### ⚡ [azure-devops-infra-automation](https://github.com/pgoud161/azure-devops-infra-automation)
+###  [azure-devops-infra-automation](https://github.com/pgoud161/azure-devops-infra-automation)
 > Infrastructure automation with **Azure DevOps**, Terraform, PowerShell, and GitHub Actions
 
 ### ☁️ [azure-serverless-file-upload-alert](https://github.com/pgoud161/azure-serverless-file-upload-alert)
@@ -60,7 +60,7 @@ Results-driven **Senior DevOps Engineer** with **5+ years of experience** design
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 | Certification | Issuer |
 |---|---|
@@ -69,7 +69,7 @@ Results-driven **Senior DevOps Engineer** with **5+ years of experience** design
 
 ---
 
-## 💼 Experience Timeline
+## Experience Timeline
 2024 - Present  │  Sr. DevOps Engineer @ United Health Group, Dallas TX
 
 2023 - 2024     │  DevOps Engineer @ Elevance Health, Austin TX
