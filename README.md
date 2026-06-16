@@ -12,20 +12,20 @@
 
 ---
 
-##  About Me
+About Me
 
 Results-driven **Senior DevOps Engineer** with **5+ years of experience** designing, automating, and managing scalable cloud infrastructure and CI/CD pipelines across **AWS** and **Azure** environments.
 
 - Currently at **United Health Group** — building HIPAA-compliant Kubernetes infrastructure on AWS with VMware Tanzu
 - Previously at **Elevance Health** — multi-cloud DevOps, EKS/AKS, Jenkins pipelines, Terraform IaC
 - Strong in **DevSecOps** — HashiCorp Vault, Trivy, SonarQube, AWS GuardDuty, OPA
--  **MS Information Systems** — Saint Louis University (2024)
+-  MS Information Systems** — Saint Louis University (2024)
 - Based in **Dallas, TX**
 - ---
 
 ##  Tech Stack
 
-###  Cloud Platforms
+Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
@@ -59,8 +59,7 @@ Results-driven **Senior DevOps Engineer** with **5+ years of experience** design
 > Simulated serverless DevOps project using **Azure Bicep**, Event Grid, and Logic Apps
 
 ---
-
-## Certifications
+Certifications
 
 | Certification | Issuer |
 |---|---|
@@ -81,7 +80,7 @@ Results-driven **Senior DevOps Engineer** with **5+ years of experience** design
 
 ## Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/parnika-g-3a397a239](https://www.linkedin.com/in/parnika-g-3a397a239/)
+-  **LinkedIn:** [linkedin.com/in/parnika-g-3a397a239](https://www.linkedin.com/in/parnika-g-3a397a239/)
 - **Email:** parnika1724@gmail.com
 - **Location:** Dallas, TX
 
