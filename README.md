@@ -3,7 +3,6 @@
 # Hi, I'm Parnika Goud Bingi
 
 </div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parnika-g-3a397a239/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:parnika1724@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/pgoud161?style=for-the-badge&logo=github)](https://github.com/pgoud161)
 
