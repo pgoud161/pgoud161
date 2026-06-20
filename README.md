@@ -66,8 +66,7 @@ Certifications
 
 ## Let's Connect
 
--  **LinkedIn:** [linkedin.com/in/parnika-g-3a397a239](https://www.linkedin.com/in/parnika-g-3a397a239/)
-- **Email:** parnika1724@gmail.com
+- **Email:** parnika690@gmail.com,bingiparnikagoud24@gmail.com
 - **Location:** Dallas, TX
 
 ---
