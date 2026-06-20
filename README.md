@@ -2,8 +2,8 @@
 
 # Hi, I'm Parnika Goud Bingi
 
-###  DevOps Engineer | 5 Years Experience
-### AWS • Azure • Kubernetes • Terraform • CI/CD • DevSecOps
+
+
 
 </div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/parnika-g-3a397a239/)
@@ -16,9 +16,9 @@ About Me
 
 Results-driven **Senior DevOps Engineer** with **5+ years of experience** designing, automating, and managing scalable cloud infrastructure and CI/CD pipelines across **AWS** and **Azure** environments.
 
-- Currently at **United Health Group** — building HIPAA-compliant Kubernetes infrastructure on AWS with VMware Tanzu
-- Previously at **Elevance Health** — multi-cloud DevOps, EKS/AKS, Jenkins pipelines, Terraform IaC
-- Strong in **DevSecOps** — HashiCorp Vault, Trivy, SonarQube, AWS GuardDuty, OPA
+-  building HIPAA-compliant Kubernetes infrastructure on AWS with VMware Tanzu
+-  multi-cloud DevOps, EKS/AKS, Jenkins pipelines, Terraform IaC
+- HashiCorp Vault, Trivy, SonarQube, AWS GuardDuty, OPA
 -  MS Information Systems** — Saint Louis University (2024)
 - Based in **Dallas, TX**
 - ---
@@ -66,17 +66,7 @@ Certifications
 | AWS Certified Solutions Architect – Associate | Amazon Web Services |
 | Azure Fundamentals (AZ-900) | Microsoft |
 
----
 
-## Experience Timeline
-2024 - Present  │  Sr. DevOps Engineer @ United Health Group, Dallas TX
-
-2023 - 2024     │  DevOps Engineer @ Elevance Health, Austin TX
-
-2021 - 2022     │  Azure DevOps Engineer @ Birla Soft, India
-
-2020 - 2021     │  Linux System Administrator @ Symbiosis Technologies, India
----
 
 ## Let's Connect
 
