@@ -66,7 +66,7 @@ Certifications
 
 ## Let's Connect
 
-- **Email:** parnika690@gmail.com,bingiparnikagoud24@gmail.com
+- **Email:** parnika352@gmail.com,bingiparnikagoud24@gmail.com
 - **Location:** Dallas, TX
 
 ---
